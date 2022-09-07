@@ -1,0 +1,15 @@
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\bin\Debug\net6.0\Sem1Task4(HW).exe
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\bin\Debug\net6.0\Sem1Task4(HW).deps.json
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\bin\Debug\net6.0\Sem1Task4(HW).runtimeconfig.json
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\bin\Debug\net6.0\Sem1Task4(HW).dll
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\bin\Debug\net6.0\Sem1Task4(HW).pdb
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).csproj.AssemblyReference.cache
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).AssemblyInfoInputs.cache
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).AssemblyInfo.cs
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).csproj.CoreCompileInputs.cache
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).dll
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\refint\Sem1Task4(HW).dll
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).pdb
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\Sem1Task4(HW).genruntimeconfig.cache
+C:\Users\Виолетта\Documents\GeekBrains\c#\Sem1c#\SemC-\Sem1Task4(HW)\obj\Debug\net6.0\ref\Sem1Task4(HW).dll
